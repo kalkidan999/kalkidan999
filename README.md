@@ -16,4 +16,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 
 - 📫 How to reach me - LinkedIN(Kalidan Demes)
 
+### Languages 💻 🌐
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScrip)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+### Technologies and Tool ⚙️ 🖥
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 
