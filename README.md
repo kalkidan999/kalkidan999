@@ -9,12 +9,11 @@
 Here are some ideas to get you started:
 -->
 - 😄 I’m Computer Engineer
-- 🔭 I’m currently working on Information Managment
+- 🔭 I’m currently working as Mobile application developer
 - 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking to collaborate on any project.
+- 👯 I’m looking to collaborate on js, mongodb, dart PL projects
 - 💬 Ask me about anything 
-- 📫 How to reach me - LinkedIN(Kalidan Demes)
+- 📫 How to reach me - LinkedIN(Kalkidan Demes)
 
 ### Languages 💻 🌐
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
